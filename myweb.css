@@ -164,71 +164,71 @@ body::-webkit-scrollbar-thumb{
 }
 @media all and (max-width: 780px){
 	.mainvid{
-		max-width: 100%;
+		min-width:600px;
 		order: 1;
 		flex:4;
 	}
 	.description{
-		max-width: 100%;
+		min-width:600px;
 		order:2;
 		flex:3;
 	}
 	.vt1{
-		max-width: 100%;
+		min-width:600px;
 		flex-direction: row;
 		flex-wrap: wrap;
 		order:3;
 		flex:5;
 	}
 	.t2{
-		max-width: 100%;
+		min-width:600px;
 		order:4;
 		flex:3;
 	}
 	.vt2{
-		max-width: 100%;
+		min-width:600px;
 		flex-direction: row;
 		flex-wrap: wrap;
 		order:5;
 		flex:5;
 	}
 	.t4{
-		max-width: 100%;
+		min-width:600px;
 		order:6;
 		flex:3;
 	}
 	.info{
-		max-width: 100%;
+		min-width:600px;
 		order:7;
 		flex:1;
 	}
 	.vt11{
-		max-width: 100%;
+		min-width:600px;
 		order:0;
 		flex:2;
 	}
 	.vt12{
-		max-width: 100%;
+		min-width:600px;
 		order:1;
 		flex:1;
 	}
 	.vt21{
-		max-width: 100%;
+		min-width:600px;
 		order:0;
 		flex:1;
 	}
 	.vt22{
-		max-width: 100%;
+		min-width:600px;
 		order:1;
 		flex:2;
 	}
 	.navbarleft{
-		max-width: 100%;
+		min-width:600px;
 		order: 0;
 		
 	}
 	.navbarcenter{
-		max-width: 100%;
+		min-width:600px;
 		order: 1;
 		
 	}
