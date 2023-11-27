@@ -163,8 +163,14 @@ body::-webkit-scrollbar-thumb{
 	}
 }
 @media all and (max-width: 780px){
+	html, body {
+  		overflow-x: hidden;
+	}
+	body {
+	 	position: relative
+	}
 	.mainvid{
-		width:100%;
+		max-width:300px;
 		height:auto;
 		order: 1;
 		flex:4;
