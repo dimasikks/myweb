@@ -162,7 +162,7 @@ body::-webkit-scrollbar-thumb{
 		
 	}
 }
-@media all and (max-width: 780px){
+@media all and (max-width: 600px){
 	html, body {
   		overflow-x: hidden;
 	}
