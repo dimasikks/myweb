@@ -164,10 +164,9 @@ body::-webkit-scrollbar-thumb{
 }
 .vt11{
 	background-color:black;
-    overflow: hidden;
-	object-fit: cover;
-	width: 100%;
-    min-height: 100%;
+    	height: 800px;
+  	width: 1224px;
+  	overflow: hidden;
 }
 .vt12{
 	padding-top: 70px;
