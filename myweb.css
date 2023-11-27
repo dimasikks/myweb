@@ -163,9 +163,6 @@ body::-webkit-scrollbar-thumb{
 	}
 }
 @media all and (max-width: 600px){
-	html, body {
-  		overflow-x: hidden;
-	}
 	.mainvid{
 		max-width:300px;
 		height:auto;
