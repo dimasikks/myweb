@@ -162,6 +162,77 @@ body::-webkit-scrollbar-thumb{
 		
 	}
 }
+@media all and (max-width: 780px){
+	.mainvid{
+		width: 100%;
+		order: 1;
+		flex:4;
+	}
+	.description{
+		width: 100%;
+		order:2;
+		flex:3;
+	}
+	.vt1{
+		width: 100%;
+		flex-direction: row;
+		flex-wrap: wrap;
+		order:3;
+		flex:5;
+	}
+	.t2{
+		width: 100%;
+		order:4;
+		flex:3;
+	}
+	.vt2{
+		width: 100%;
+		flex-direction: row;
+		flex-wrap: wrap;
+		order:5;
+		flex:5;
+	}
+	.t4{
+		width: 100%;
+		order:6;
+		flex:3;
+	}
+	.info{
+		width: 100%;
+		order:7;
+		flex:1;
+	}
+	.vt11{
+		width: 100%;
+		order:0;
+		flex:2;
+	}
+	.vt12{
+		width: 100%;
+		order:1;
+		flex:1;
+	}
+	.vt21{
+		width: 100%;
+		order:0;
+		flex:1;
+	}
+	.vt22{
+		width: 100%;
+		order:1;
+		flex:2;
+	}
+	.navbarleft{
+		width: 100%;
+		order: 0;
+		
+	}
+	.navbarcenter{
+		width: 100%;
+		order: 1;
+		
+	}
+}
 .vt11{
 	background-color:black;
     	height: 700px;
